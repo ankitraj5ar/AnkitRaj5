@@ -54,8 +54,8 @@
 <a href = "https://www.linkedin.com/in/ankitraj5ar/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/AnkitRaj5ar" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/ankit_raj_5/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href="https://stackoverflow.com/users/14895475/ankit-raj" target="_blank"><img src="https://stackoverflow.design/assets/img/logos/so/logo-stackoverflow.svg" alt="https://stackoverflow.com/users/14895475/ankit-raj" height="45" width="50" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/ankitraj5ar" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/ankitraj5ar" height="55" width="50" /></a>
+<a href="https://stackoverflow.com/users/14895475/ankit-raj" target="_blank"><img src="https://www.iconsdb.com/icons/preview/white/stackoverflow-xxl.png" alt="https://stackoverflow.com/users/14895475/ankit-raj" height="40" width="45" /></a>
+<a href="https://www.codechef.com/users/https://www.codechef.com/users/ankitraj5ar" target="_blank"><img src="https://img.icons8.com/fluency/344/codechef.png" alt="https://www.codechef.com/users/ankitraj5ar" height="55" width="50" /></a>
 
 </p>
 
