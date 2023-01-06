@@ -7,7 +7,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Dog Lovers](https://dogslover.live/)**
+- 🔭 I’m currently working on **[Sorting Visualizer](https://github.com/AnkitRaj5ar)**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
@@ -43,7 +43,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/AnkitRaj5ar/github-readme-activity-graph"><img alt="Ankit Raj Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AnkitRaj5ar&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/ankitraj5ar/github-readme-activity-graph"><img alt="Ankit Raj Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=AnkitRaj5ar&theme=dracula"/></a>
 
 <br/>
 <br/>
