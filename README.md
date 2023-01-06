@@ -7,17 +7,17 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Dog Lovers](https://ankitraj5ar.github.io/)**
+- 🔭 I’m currently working on **[Dog Lovers](https://dogslover.live/)**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/AnkitRaj5)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/AnkitRaj5ar)**
 
 - 📫 How to reach me **ankitraj5ar@gmail.com**
 
-- ⚡ Fun fact **I play games.**
+- ⚡ Fun fact **I watch too much kdrama.**
 
 ## 🚀 Languages and Tools:
 
@@ -26,16 +26,16 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/ankitraj5/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ankit Raj's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AnkitRaj5&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/ankitraj5ar/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ankit Raj's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AnkitRaj5ar&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/AnkitRaj5/github-readme-stats"><img alt="Ankit Raj Github Stats" src="https://github-readme-stats.vercel.app/api?username=AnkitRaj5&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/AnkitRaj5/github-readme-stats"><img alt="Ankit Raj Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitRaj5&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/AnkitRaj5ar/github-readme-stats"><img alt="Ankit Raj Github Stats" src="https://github-readme-stats.vercel.app/api?username=AnkitRaj5ar&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/AnkitRaj5ar/github-readme-stats"><img alt="Ankit Raj Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitRaj5ar&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
  
 
@@ -43,7 +43,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/AnkitRaj5/github-readme-activity-graph"><img alt="Ankit Raj Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AnkitRaj5&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/AnkitRaj5ar/github-readme-activity-graph"><img alt="Ankit Raj Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AnkitRaj5ar&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -53,7 +53,7 @@
 
 <a href = "https://www.linkedin.com/in/ankitraj5ar/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/AnkitRaj5ar" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/ankit_raj_5/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.instagram.com/ankitraj5ar/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href="https://stackoverflow.com/users/14895475/ankit-raj" target="_blank"><img src="https://www.iconsdb.com/icons/preview/white/stackoverflow-xxl.png" alt="https://stackoverflow.com/users/14895475/ankit-raj" height="40" width="45" /></a>
 <a href="https://www.codechef.com/users/https://www.codechef.com/users/ankitraj5ar" target="_blank"><img src="https://img.icons8.com/fluency/344/codechef.png" alt="https://www.codechef.com/users/ankitraj5ar" height="55" width="50" /></a>
 
@@ -61,7 +61,7 @@
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=AnkitRaj5">
+    <img src="https://komarev.com/ghpvc/?username=AnkitRaj5ar">
 </a>
-<a href="https://github.com/AnkitRaj5?tab=followers"><img src="https://img.shields.io/github/followers/AnkitRaj5?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/AnkitRaj5ar?tab=followers"><img src="https://img.shields.io/github/followers/AnkitRaj5ar?label=Followers&style=social" alt="GitHub Badge"></a>
 
