@@ -43,7 +43,7 @@
 <br/>
 <br/>
 
-[![Ankit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AnkitRaj5ar&theme=react-dark)]
+![Ankit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AnkitRaj5ar&theme=react-dark)
 <br/>
 <br/>
 
