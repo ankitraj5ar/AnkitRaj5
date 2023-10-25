@@ -43,8 +43,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/ankitraj5ar/github-readme-activity-graph"><img alt="Ankit Raj Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=AnkitRaj5ar&theme=react-dark"/></a>
-
+[![Ankit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AnkitRaj5ar&theme=react-dark)]
 <br/>
 <br/>
 
